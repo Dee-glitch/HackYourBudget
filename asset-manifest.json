@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hackyourbudget/static/css/main.2dbe83a3.chunk.css",
+    "main.js": "/hackyourbudget/static/js/main.034c8052.chunk.js",
+    "main.js.map": "/hackyourbudget/static/js/main.034c8052.chunk.js.map",
+    "runtime-main.js": "/hackyourbudget/static/js/runtime-main.15ed60e5.js",
+    "runtime-main.js.map": "/hackyourbudget/static/js/runtime-main.15ed60e5.js.map",
+    "static/js/2.2e3f0953.chunk.js": "/hackyourbudget/static/js/2.2e3f0953.chunk.js",
+    "static/js/2.2e3f0953.chunk.js.map": "/hackyourbudget/static/js/2.2e3f0953.chunk.js.map",
+    "static/js/3.e074ca71.chunk.js": "/hackyourbudget/static/js/3.e074ca71.chunk.js",
+    "static/js/3.e074ca71.chunk.js.map": "/hackyourbudget/static/js/3.e074ca71.chunk.js.map",
+    "index.html": "/hackyourbudget/index.html",
+    "static/css/main.2dbe83a3.chunk.css.map": "/hackyourbudget/static/css/main.2dbe83a3.chunk.css.map",
+    "static/js/2.2e3f0953.chunk.js.LICENSE.txt": "/hackyourbudget/static/js/2.2e3f0953.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15ed60e5.js",
+    "static/js/2.2e3f0953.chunk.js",
+    "static/css/main.2dbe83a3.chunk.css",
+    "static/js/main.034c8052.chunk.js"
+  ]
+}
