@@ -1,3 +1,6 @@
+# Hack Your Budget
+This is a simple budget management app where users can read, add, edit, delete their list and keep track of theor expenditure and spending habits.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
