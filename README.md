@@ -1,5 +1,5 @@
 # Hack Your Budget
-This is a simple budget management app where users can read, add, edit, delete their list and keep track of theor expenditure and spending habits.
+This is a simple budget management app where users can read, add, edit, delete their list and keep track of their expenditure and spending habits.
 [Demo](https://dee-glitch.github.io/HackYourBudget/)
 
 # Getting Started with Create React App
